@@ -5,11 +5,12 @@
 .text
 
 main:
-	addi s0, zera, 0         
+	addi s0, zero, 0         
 	addi s1, zero, 0      
 	addi s4, zero, 9         
 	la s2, Vector_1         
-	la s3, Vector_2  
+	la s3, Vector_2 
+ 
 
 
 	
